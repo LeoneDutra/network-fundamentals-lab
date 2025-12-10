@@ -10,4 +10,16 @@ Hands-on exercises to strengthen understanding of core networking concepts used 
 - Packet capture and protocol analysis with Wireshark
 
 ## 📂 Repository Structure
+- topologies/
+- configs/
+- pcaps/
+- protocol-notes/
+- lab-guides/
 
+## 🎯 Objectives
+- Master the foundations of networking  
+- Support cloud and security study paths  
+- Build reference material for troubleshooting and analysis  
+
+## 📝 Notes
+Topologies can be used in EVE-NG, GNS3, or similar platforms.
