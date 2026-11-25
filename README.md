@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> **This repository has moved.** Its content was consolidated into:> 
+> **This repository has moved.** Its content was consolidated into:
+>
 > - **[LeoneDutra/networking-fundamentals](https://github.com/LeoneDutra/networking-fundamentals)**
 >
 > This repo is archived and kept only for history.
