@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This repository has moved.** Its content was consolidated into:> 
+> - **[LeoneDutra/networking-fundamentals](https://github.com/LeoneDutra/networking-fundamentals)**
+>
+> This repo is archived and kept only for history.
+
+---
+
 # Network Fundamentals Lab
 
 Hands-on exercises to strengthen understanding of core networking concepts used in cybersecurity and cloud environments.
